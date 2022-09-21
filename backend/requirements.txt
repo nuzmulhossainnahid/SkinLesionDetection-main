@@ -48,7 +48,7 @@ termcolor==1.1.0
 tf-estimator-nightly==2.5.0.dev2021032501
 tf-nightly==2.6.0.dev20210402
 typing-extensions==3.7.4.3
-urllib3==1.26.4
+urllib3==1.26.5
 virtualenv==20.4.3
 virtualenv-clone==0.5.4
 Werkzeug==1.0.1
