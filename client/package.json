@@ -15,7 +15,7 @@
     "mdbreact": "^5.0.2",
     "multiselect-react-dropdown": "^1.6.3",
     "node-sass": "^4.13.0",
-    "npm": "^6.14.11",
+    "npm": "^9.4.1",
     "react": "^17.0.1",
     "react-bootstrap-range-slider": "^2.0.2",
     "react-chartjs-2": "^2.11.1",
